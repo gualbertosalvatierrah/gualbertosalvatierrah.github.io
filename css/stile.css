@@ -1,0 +1,89 @@
+body{ font-family: 'Locust', cursiva;}
+.cabesera{
+    padding-top: 30px;
+}
+h1{ 
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+img{
+    text-align: center;
+    border-radius: 50PX;
+}
+#barra{
+    border-right: 5px silver solid ;
+}
+.features{
+    text-align: center;
+    padding-top: 70px;
+}
+
+#btn-primary{
+    border: 10px;
+    border-radius: 50px;
+    background-color: rgb(29, 29, 161);
+    color: rgb(66, 64, 64);
+}
+#btn-second{
+    border: 10px;
+    border-radius: 50px;
+    background-color: rgb(29, 29, 161);
+    color: rgb(66, 64, 64);
+}
+
+
+#btn_contact{
+    background-color: rgb(2, 2, 7);
+    color: rgb(66, 64, 64);
+
+}
+
+
+.p-noticias{
+    text-align: justify;
+    padding-top: 50px;
+}
+
+h3{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+.slader{
+    text-align: center;
+    padding-top: 50px;
+}
+#six{
+    text-align: right;
+    padding-top: 20px;
+}
+#video{
+    padding: 150px;
+    padding-top: 50px;
+}
+.contactos{
+    text-align: center;
+    padding-bottom: 20%;
+
+
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+
+}
+.piepag{
+    border: 35px rgb(153, 149, 149) solid;
+    background-color: rgb(51, 51, 48);
+
+
+}
